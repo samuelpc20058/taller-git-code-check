@@ -3,7 +3,7 @@
 # =============================================================================
 
 # Frecuencia de muestreo del sistema de adquisición (Hz)
-SAMPLING_RATE = 1000
+SAMPLING_RATE = 100
 
 # Rango de voltaje de entrada del ADC (Voltios)
 V_REF = 3.3
