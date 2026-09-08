@@ -6,4 +6,4 @@
 SAMPLING_RATE = 1000
 
 # Rango de voltaje de entrada del ADC (Voltios)
-V_REF = 3.3
+V_REF = 3.2
